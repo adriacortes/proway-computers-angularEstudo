@@ -5,7 +5,7 @@ import { ProdutosComponent } from './produtos.component';
 
 const routes: Routes = [
   { path: '', component: ProdutosComponent },// Para a pagina de produtos aparecer na pagina inicial!
-  { path:  ':id',component: DetalhesProdutoComponent}
+  { path: ':id', component: DetalhesProdutoComponent}
 
 ];
 
