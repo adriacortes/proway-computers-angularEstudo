@@ -1,2 +1,2 @@
 # proway-computers-angularEstudo
-Projeto estudo Angular.
+E-commerce listando os produtos e adicionando no carrtinho.
