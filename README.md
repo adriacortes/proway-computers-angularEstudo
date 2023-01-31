@@ -1,2 +1,2 @@
 # proway-computers-angularEstudo
-E-commerce listando os produtos e adicionando no carrtinho.
+E-commerce listando os produtos e adicionando no carrinho.
